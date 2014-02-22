@@ -1,0 +1,14 @@
+
+This plugin changes the font face, I included some fonts but you can add any fonts you want and just change the name in the css files. 
+
+You can edit the font face in the css files .
+
+Use the vf.css to edit the font face for the full site view
+
+Use the vfm.css to edit the font face for the mobile site view.
+
+You can convert your off and ttf fonts here:
+
+http://www.font2web.com
+
+http://www.freefontconverter.com

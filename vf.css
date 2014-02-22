@@ -1,0 +1,14 @@
+
+html,body,div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, ins, kbd, q,  samp, small, strike, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td{
+font-family:americantypewriter!important;
+}
+
+
+@font-face {
+font-family: 'americantypewriter';
+src: url('plugins/VFonts/fonts/americantypewriter.otf')format('opentype');
+src: url('plugins/VFonts/fonts/americantypewriter.eot') format('embedded-opentype'),
+url('plugins/VFonts/fonts/americantypewriter.woff') format('woff'),
+url('plugins/VFonts/fonts/americantypewriter.ttf') format('truetype'),
+url('plugins/VFonts/fonts/americantypewriter.svg') format('svg');
+}
